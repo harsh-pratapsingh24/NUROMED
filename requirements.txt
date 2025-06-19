@@ -1,0 +1,4 @@
+streamlit
+Pillow
+easyocr
+openai  # only for future real Gemini integration
